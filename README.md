@@ -2,8 +2,6 @@
 A platform for students to easily arrange their own study group or discover study groups.  
   
 This project is built during BeachHacks 2019.  
-Try it out [here](https://sotheanith.github.io/Scheduler/).  
-![screenshots](StudyBuddy_screenshot.png)
 
 ## Story
 ### Inspiration
